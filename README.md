@@ -162,6 +162,9 @@ Projemizin her satırı, bir hayatın daha zamanında kurtarılması için yazı
 Toplamda 3 sprint olarak planlanan projemizintoplam puanı 300 olarak belirlenip ilk sprint'i için 80 puanlık bir hedef konulmuştur. Bu puan, fiili kodlama içerse de veri setini anlama, detaylı rapor oluşturma ve strateji geliştirme gibi bilişsel yük gerektiren görevleri kapsamaktadır. Projenin en önemli adımı olan "ne yapılacağını ve nasıl yapılacağını" netleştiren bu görevler, projenin temelini oluşturduğu için yüksek puanlanmıştır. Amaç, Sprint 2'ye "sadece kodlamaya odaklanabileceğimiz" temiz bir başlangıçla girmektir.
 Sprint 2 ve Sprint 3, projenin en yoğun geliştirme fazlarını temsil etmektedir. Sprint 2, modellemenin; Sprint 3 ise arayüz geliştirmenin ağırlıklı olduğu dönemlerdir. Bu sprint'lerdeki görevler, yüksek derecede teknik karmaşıklık ve uygulama eforu gerektirdiğinden, her biri için hedeflenen puan 110 olarak belirlenmiştir.
 
+## Daily Scrum: 
+Günlük  iletişimin, kolaylık ve hız gibi artılarından ötürü  Whatsapp üzerinden yapılmasına karar verilmiştir. Günlük iletişim örnekleri pdf olarak tarafımızdan paylaşılmaktadır: [sprint1_daily](https://github.com/EfeBirsin/Grup-5-/blob/main/ProjectManagement/Sprint1Documents/sprint1_daily%20(1).pdf)
+
 ### Sprint Retrospektifi:
 
 - İkinci sprintte modelin geliştirilmesine devam edilmesine karar verildi.
