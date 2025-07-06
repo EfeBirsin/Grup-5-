@@ -144,7 +144,7 @@ Projemizin her satırı, bir hayatın daha zamanında kurtarılması için yazı
 > Örnek çalıştırmalar için `notebooks/` dizininden Jupyter dosyalarına ulaşabilirsiniz.
 
 <details>
-<summary>Sprint 1</summary>
+<summary><h2>Sprint 1</h2></summary>
 
 ### Sprint Notları:
 -	Proje alanı belirlenip proje fikri oluşturuldu.
