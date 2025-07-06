@@ -49,7 +49,7 @@
     </tr>
     <tr>
       <td>
-        <img src="https://avatars.githubusercontent.com/u/44444444" width="60" height="60" style="border-radius:50%" /><br>
+        <img src="https://avatars.githubusercontent.com/u/202075982?v=4" width="60" height="60" style="border-radius:50%" /><br>
         <strong>Esra Çilesiz</strong>
       </td>
       <td>Developer</td>
@@ -59,7 +59,7 @@
     </tr>
     <tr>
       <td>
-        <img src="https://avatars.githubusercontent.com/u/55555555" width="60" height="60" style="border-radius:50%" /><br>
+        <img src="https://avatars.githubusercontent.com/u/184748762?v=4" width="60" height="60" style="border-radius:50%" /><br>
         <strong>Beyza İrem Kaya</strong>
       </td>
       <td>Developer</td>
