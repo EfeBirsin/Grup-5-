@@ -167,7 +167,7 @@ Günlük  iletişimin, kolaylık ve hız gibi artılarından ötürü  Whatsapp 
 
 ## Sprint board update
 
-[trello]([ProjectManagement/Sprint1Documents/trello.png](https://github.com/EfeBirsin/Grup-5-/blob/main/ProjectManagement/Sprint1Documents/trello.png))
+([[ProjectManagement/Sprint1Documents/trello.png](https://github.com/EfeBirsin/Grup-5-/blob/main/ProjectManagement/Sprint1Documents/trello.png)](https://github.com/EfeBirsin/Grup-5-/blob/main/ProjectManagement/Sprint1Documents/trello.png))
 
 ### Sprint Retrospektifi:
 
