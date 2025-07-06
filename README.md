@@ -165,6 +165,10 @@ Sprint 2 ve Sprint 3, projenin en yoğun geliştirme fazlarını temsil etmekted
 ## Daily Scrum: 
 Günlük  iletişimin, kolaylık ve hız gibi artılarından ötürü  Whatsapp üzerinden yapılmasına karar verilmiştir. Günlük iletişim örnekleri pdf olarak tarafımızdan paylaşılmaktadır: [sprint1_daily](https://github.com/EfeBirsin/Grup-5-/blob/main/ProjectManagement/Sprint1Documents/sprint1_daily%20(1).pdf)
 
+## Sprint board update
+
+[trello](ProjectManagement/Sprint1Documents/trello.png)
+
 ### Sprint Retrospektifi:
 
 - İkinci sprintte modelin geliştirilmesine devam edilmesine karar verildi.
