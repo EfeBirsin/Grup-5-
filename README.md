@@ -142,3 +142,31 @@ Projemizin her satırı, bir hayatın daha zamanında kurtarılması için yazı
 
 > Kurulum talimatları, model eğitimi ve demo arayüzle ilgili belgeler için [Wiki](./wiki) sayfamızı ziyaret edin.  
 > Örnek çalıştırmalar için `notebooks/` dizininden Jupyter dosyalarına ulaşabilirsiniz.
+
+<details>
+<summary>Sprint 1</summary>
+
+### Sprint Notları:
+-	Proje alanı belirlenip proje fikri oluşturuldu.
+-	Görev dağılımı yapıldı, takım ismi bulundu
+-	Proje ürünü hakkında genel fikirler github’a yazıldı
+-	Toplantılar “Jitzi” veya “Google Meet” üzerinden yapıldı, gerekli durumlarda "Whatsapp” grubu üzerinden konuşmalar devam ettirildi.
+-	Proje yönetimi için “Trello” kullanıldı.
+-	Proje için “MIMIC-III demo 1.4” veri seti incelendi, veri setindeki her bir veri için rapor oluşturulup modele katkısı ölçüldü.
+-	“Sepsis tahmini” yapılacak model oluşturulmaya ve geliştirilmeye başlandı.
+
+### Sprint için Tamamlanması Beklenen Puan: 80 puan
+
+### Tahmin Mantığı:
+
+Toplamda 3 sprint olarak planlanan projemizintoplam puanı 300 olarak belirlenip ilk sprint'i için 80 puanlık bir hedef konulmuştur. Bu puan, fiili kodlama içerse de veri setini anlama, detaylı rapor oluşturma ve strateji geliştirme gibi bilişsel yük gerektiren görevleri kapsamaktadır. Projenin en önemli adımı olan "ne yapılacağını ve nasıl yapılacağını" netleştiren bu görevler, projenin temelini oluşturduğu için yüksek puanlanmıştır. Amaç, Sprint 2'ye "sadece kodlamaya odaklanabileceğimiz" temiz bir başlangıçla girmektir.
+Sprint 2 ve Sprint 3, projenin en yoğun geliştirme fazlarını temsil etmektedir. Sprint 2, modellemenin; Sprint 3 ise arayüz geliştirmenin ağırlıklı olduğu dönemlerdir. Bu sprint'lerdeki görevler, yüksek derecede teknik karmaşıklık ve uygulama eforu gerektirdiğinden, her biri için hedeflenen puan 110 olarak belirlenmiştir.
+
+### Sprint Retrospektifi:
+
+- İkinci sprintte modelin geliştirilmesine devam edilmesine karar verildi.
+-	Modelin performansını ölçmek için bir başarı metriği belirlenmesine ve bu metrik üzerinden iyileştirme yapılmasına karar verildi.
+-	Ürünün arayüzü ve kullanıcı deneyimi (UI/UX) tasarımı üzerine yapılacak toplantıların sıklaştırılmasına karar verildi.
+-	Araştırma fazında elde edilen bulgular doğrultusunda modelin ilk versiyonunun oluşturulmasına başlanmasına karar verildi.
+
+</details>
