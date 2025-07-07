@@ -169,6 +169,10 @@ Günlük  iletişimin, kolaylık ve hız gibi artılarından ötürü  Whatsapp 
 
 ![trello.png](https://raw.githubusercontent.com/EfeBirsin/Grup-5-/f75666b8a4f7b3be9eff96505825ce9f63a4d2bd/ProjectManagement/Sprint1Documents/trello.png)
 
+## Ürün Durumu Çıktısı
+
+![Ürün Çıktısı 1](https://github.com/EfeBirsin/Grup-5-/blob/main/ProjectManagement/Sprint1Documents/%C3%9Cr%C3%BCn_Tasar%C4%B1m%C4%B1_Figma.jpg?raw=true)
+![Ürün Çıktısı 2](https://github.com/EfeBirsin/Grup-5-/blob/main/ProjectManagement/Sprint1Documents/%C3%9Cr%C3%BCn_Tasar%C4%B1m%C4%B1_Figma_2.jpg?raw=true)
 
 ## Sprint Retrospektifi:
 
