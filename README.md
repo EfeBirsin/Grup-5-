@@ -176,4 +176,26 @@ Günlük  iletişimin, kolaylık ve hız gibi artılarından ötürü  Whatsapp 
 -	Ürünün arayüzü ve kullanıcı deneyimi (UI/UX) tasarımı üzerine yapılacak toplantıların sıklaştırılmasına karar verildi.
 -	Araştırma fazında elde edilen bulgular doğrultusunda modelin ilk versiyonunun oluşturulmasına başlanmasına karar verildi.
 
+### Sprint Review:
+
+**Sprint Hedefi:**  
+
+Sprint 1'in ana hedefi, "Sepsis Tahmini" projesinin temelini atmak, kullanılacak MIMIC-III demo 1.4 veri setini derinlemesine analiz etmek, bu analiz sonucunda bir strateji geliştirmek ve modelin ilk altyapısını kurmaktı. Amaç, Sprint 2'ye temiz ve net bir başlangıç yapabilmek için tüm hazırlık ve araştırma adımlarını tamamlamaktı.
+
+**Tamamlanan İşler ve Çıktılar:**
+
+- Veri setindeki her bir klinik özniteliğin sepsis tahminine olası katkısı detaylı bir şekilde incelenmiş ve bu bulguları içeren kapsamlı bir rapor oluşturulmuştur.
+- Araştırma fazında elde edilen bulgular doğrultusunda, sepsis tahmini yapacak modelin ilk iskeletini ve temel fonksiyonlarını içeren Python script'leri geliştirilmeye başlanmıştır.
+- Trello board'u sprint takibi için aktif hale getirilmiş, proje hakkındaki genel fikirler ve hedefler GitHub reposuna işlenerek tüm takım için ortak bir anlayış zemini oluşturulmuştur.
+
+**Alınan Kararlar ve Sonraki Adımlar:**
+
+- Modelin performansını objektif olarak ölçmek ve iyileştirmeleri bu doğrultuda yapmak için Sprint 2'nin başında spesifik bir başarı metriği (örn: AUC-ROC, F1-Score, Precision-Recall) belirlenmesine karar verildi.
+- Veri analiz raporu temel alınarak, Sprint 2'de modelin geliştirme, eğitim ve iyileştirme çalışmalarına odaklanılacaktır.
+- Ürünün son kullanıcı için değerini ve kullanılabilirliğini artırmak amacıyla, kullanıcı arayüzü (UI) ve kullanıcı deneyimi (UX) üzerine yapılacak toplantıların sıklaştırılmasına karar verildi.
+
+**Sprint Katılımcıları:**
+
+Aslı Şemsimoğlu, Beyza İrem Kaya, Efe Birsin, Esra Çilesiz, Melih Eren
+
 </details>
