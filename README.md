@@ -154,6 +154,7 @@ Projemizin her satırı, bir hayatın daha zamanında kurtarılması için yazı
 -	Proje yönetimi için “Trello” kullanıldı.
 -	Proje için “MIMIC-III demo 1.4” veri seti incelendi, veri setindeki her bir veri için rapor oluşturulup modele katkısı ölçüldü.
 -	“Sepsis tahmini” yapılacak model oluşturulmaya ve geliştirilmeye başlandı.
+-	Figma UI tasarımına başlanıldı.
 
 ## Sprint için Tamamlanması Beklenen Puan: 80 puan
 
@@ -173,6 +174,7 @@ Günlük  iletişimin, kolaylık ve hız gibi artılarından ötürü  Whatsapp 
 
 ![Ürün Çıktısı 1](https://github.com/EfeBirsin/Grup-5-/blob/main/ProjectManagement/Sprint1Documents/%C3%9Cr%C3%BCn_Tasar%C4%B1m%C4%B1_Figma.jpg?raw=true)
 ![Ürün Çıktısı 2](https://github.com/EfeBirsin/Grup-5-/blob/main/ProjectManagement/Sprint1Documents/%C3%9Cr%C3%BCn_Tasar%C4%B1m%C4%B1_Figma_2.jpg?raw=true)
+![Ürün Çıktısı 3](https://github.com/EfeBirsin/Grup-5-/blob/main/ProjectManagement/Sprint1Documents/%C3%9Cr%C3%BCn_Tasar%C4%B1m%C4%B1_Figma_3.jpg?raw=true)
 
 ## Sprint Retrospektifi:
 
