@@ -243,7 +243,6 @@ Ayrıca ürünün video kaydı için:
 - Modelin performansı arttırılması için veri ön işleme ve özellik mühendisliği üzerinde duruldu.
 -	Son sprint olan Sprint 3 için görevler netleştirildi: Modelin son haline getirilmesi, arayüzün tamamlanması, tam entegrasyonun sağlanması ve projenin sunuma hazır hale getirilmesi.
 -	Bağımlı değişkenin kategorik değerleri dengeli dağılmadığı için "Accuracy" başarı metriği yerine "Recall" ve "F1-Score" metriklerinin değerleri göz önünde bulundurulmaya karar verildi.
--	
 
 ## Sprint Review:
 
