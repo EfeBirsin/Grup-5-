@@ -164,17 +164,17 @@ Toplamda 3 sprint olarak planlanan projemizintoplam puanı 300 olarak belirlenip
 Sprint 2 ve Sprint 3, projenin en yoğun geliştirme fazlarını temsil etmektedir. Sprint 2, modellemenin; Sprint 3 ise arayüz geliştirmenin ağırlıklı olduğu dönemlerdir. Bu sprint'lerdeki görevler, yüksek derecede teknik karmaşıklık ve uygulama eforu gerektirdiğinden, her biri için hedeflenen puan 110 olarak belirlenmiştir.
 
 ## Daily Scrum: 
-Günlük  iletişimin, kolaylık ve hız gibi artılarından ötürü  Whatsapp üzerinden yapılmasına karar verilmiştir. Günlük iletişim örnekleri pdf olarak tarafımızdan paylaşılmaktadır: [sprint1_daily](https://github.com/EfeBirsin/Grup-5-/blob/main/ProjectManagement/Sprint1Documents/sprint1_daily%20(1).pdf)
+Günlük  iletişimin, kolaylık ve hız gibi artılarından ötürü  Whatsapp üzerinden yapılmasına karar verilmiştir. Günlük iletişim örnekleri pdf olarak tarafımızdan paylaşılmaktadır: [sprint1_daily](https://github.com/EfeBirsin/Grup-5-/blob/main/ProjectManagement/Sprint1/sprint1_daily%20(1).pdf)
 
 ## Sprint board update
 
-![trello.png](https://raw.githubusercontent.com/EfeBirsin/Grup-5-/f75666b8a4f7b3be9eff96505825ce9f63a4d2bd/ProjectManagement/Sprint1Documents/trello.png)
+![trello.png](https://github.com/EfeBirsin/Grup-5-/blob/main/ProjectManagement/Sprint1/trello.png)
 
 ## Ürün Durumu Çıktısı
 
-![Ürün Çıktısı 1](https://github.com/EfeBirsin/Grup-5-/blob/main/ProjectManagement/Sprint1Documents/%C3%9Cr%C3%BCn_Tasar%C4%B1m%C4%B1_Figma.jpg?raw=true)
-![Ürün Çıktısı 2](https://github.com/EfeBirsin/Grup-5-/blob/main/ProjectManagement/Sprint1Documents/%C3%9Cr%C3%BCn_Tasar%C4%B1m%C4%B1_Figma_2.jpg?raw=true)
-![Ürün Çıktısı 3](https://github.com/EfeBirsin/Grup-5-/blob/main/ProjectManagement/Sprint1Documents/%C3%9Cr%C3%BCn_Tasar%C4%B1m%C4%B1_Figma_3.jpg?raw=true)
+![Ürün Çıktısı 1](https://github.com/EfeBirsin/Grup-5-/blob/main/ProjectManagement/Sprint1/%C3%9Cr%C3%BCn_Tasar%C4%B1m%C4%B1_Figma.jpg)
+![Ürün Çıktısı 2](https://github.com/EfeBirsin/Grup-5-/blob/main/ProjectManagement/Sprint1/%C3%9Cr%C3%BCn_Tasar%C4%B1m%C4%B1_Figma_2.jpg)
+![Ürün Çıktısı 3](https://github.com/EfeBirsin/Grup-5-/blob/main/ProjectManagement/Sprint1/%C3%9Cr%C3%BCn_Tasar%C4%B1m%C4%B1_Figma_3.jpg)
 
 ## Sprint Retrospektifi:
 
