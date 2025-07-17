@@ -235,7 +235,7 @@ Günlük  iletişimin, kolaylık ve hız gibi artılarından ötürü  Whatsapp 
 ![Ürün Çıktısı 3](https://github.com/EfeBirsin/Grup-5-/blob/main/ProjectManagement/Sprint2/SepsisGuardAI_%C3%B6n_izlenim.gif)
 
 Ayrıca ürünün video kaydı için:
-[ürün video kaydı](https://youtu.be/eKWXF5uF4bY)
+[SepsisGuardAI Video Kaydı](https://youtu.be/eKWXF5uF4bY)
 
 ## Modellerin Sınıflandırma Sonuçları
 
