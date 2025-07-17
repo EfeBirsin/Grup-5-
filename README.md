@@ -230,8 +230,12 @@ Günlük  iletişimin, kolaylık ve hız gibi artılarından ötürü  Whatsapp 
 
 ## Ürün Durumu Çıktısı
 
-![Ürün Çıktısı 1](https://github.com/EfeBirsin/Grup-5-/blob/main/ProjectManagement/Sprint1/%C3%9Cr%C3%BCn_Tasar%C4%B1m%C4%B1_Figma.jpg)
-![Ürün Çıktısı 2](https://github.com/EfeBirsin/Grup-5-/blob/main/ProjectManagement/Sprint1/%C3%9Cr%C3%BCn_Tasar%C4%B1m%C4%B1_Figma_2.jpg)
+![Ürün Çıktısı 1](https://github.com/EfeBirsin/Grup-5-/blob/main/ProjectManagement/Sprint2/%C3%9Cr%C3%BCn_Tasar%C4%B1m%C4%B1_Sprint2.jpg)
+![Ürün Çıktısı 2](https://github.com/EfeBirsin/Grup-5-/blob/main/ProjectManagement/Sprint2/%C3%9Cr%C3%BCn_Tasar%C4%B1m%C4%B12_Sprint2.jpg))
+
+Ayrıca ürünün video kaydı için:
+[ürün video kaydı](https://youtu.be/eKWXF5uF4bY)
+
 
 ## Sprint Retrospektifi:
 
