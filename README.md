@@ -236,6 +236,26 @@ Günlük  iletişimin, kolaylık ve hız gibi artılarından ötürü  Whatsapp 
 Ayrıca ürünün video kaydı için:
 [ürün video kaydı](https://youtu.be/eKWXF5uF4bY)
 
+## Modellerin Sınıflandırma Sonuçları
+
+<details>
+<summary> Lojistik Regresyon </summary>
+
+### Lojistik Regresyon Performansı
+
+| Metrik | Precision | Recall | F1-Score | Support |
+| :--- | :---: | :---: | :---: | :---: |
+| **Sınıf 0** | 0.76 | 0.84 | 0.80 | 19 |
+| **Sınıf 1** | 0.50 | 0.38 | 0.43 | 8 |
+| | | | | |
+| **Accuracy** | | | **0.70** | **27** |
+| **Macro Avg** | 0.63 | 0.61 | 0.61 | 27 |
+| **Weighted Avg**| 0.68 | 0.70 | 0.69 | 27 |
+
+**ROC AUC Skoru:** **`0.7632`**
+
+</details>
+
 
 ## Sprint Retrospektifi:
 
