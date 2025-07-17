@@ -238,7 +238,7 @@ Ayrıca ürünün video kaydı için:
 
 ## Modellerin Sınıflandırma Sonuçları
 
-Oluşturulan model için: [Model linki](https://github.com/EfeBirsin/Grup-5-/blob/main/ProjectManagement/Sprint2/sepsis_model_deneme.ipynb)
+Oluşturulan model için: [Sepsis Modeli Tahmini](https://github.com/EfeBirsin/Grup-5-/blob/main/ProjectManagement/Sprint2/sepsis_model_deneme.ipynb)
 
 <details>
 <summary> Lojistik Regresyon </summary>
