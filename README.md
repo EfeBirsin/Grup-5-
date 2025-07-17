@@ -224,7 +224,7 @@ Aslı Şemsimoğlu, Beyza İrem Kaya, Efe Birsin, Esra Çilesiz, Melih Eren
 Toplamda 3 sprint olarak planlanan projemizin toplam puanı 300 olarak belirlenip 2. sprint'i için 110 puanlık bir hedef konulmuştur. Bu sprint, hem yapay zeka modelinin kodlanıp eğitilmesi hem de kullanıcı arayüzünün geliştirilmesi gibi yüksek teknik karmaşıklık ve uygulama eforu gerektiren görevleri içermektedir.
 
 ## Daily Scrum: 
-Günlük  iletişimin, kolaylık ve hız gibi artılarından ötürü  Whatsapp üzerinden yapılmasına karar verilmiştir.
+Günlük  iletişimin, kolaylık ve hız gibi artılarından ötürü  Whatsapp üzerinden yapılmasına karar verilmiştir. [Sprint 2 - Daily Scrum](https://github.com/EfeBirsin/Grup-5-/tree/main/ProjectManagement/Sprint2/Daily%20Scrum%202)
 
 ## Sprint board update
 
