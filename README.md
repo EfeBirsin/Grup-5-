@@ -231,12 +231,14 @@ Günlük  iletişimin, kolaylık ve hız gibi artılarından ötürü  Whatsapp 
 ## Ürün Durumu Çıktısı
 
 ![Ürün Çıktısı 1](https://github.com/EfeBirsin/Grup-5-/blob/main/ProjectManagement/Sprint2/%C3%9Cr%C3%BCn_Tasar%C4%B1m%C4%B1_Sprint2.jpg)
-![Ürün Çıktısı 2](https://github.com/EfeBirsin/Grup-5-/blob/main/ProjectManagement/Sprint2/%C3%9Cr%C3%BCn_Tasar%C4%B1m%C4%B12_Sprint2.jpg))
+![Ürün Çıktısı 2](https://github.com/EfeBirsin/Grup-5-/blob/main/ProjectManagement/Sprint2/%C3%9Cr%C3%BCn_Tasar%C4%B1m%C4%B12_Sprint2.jpg)
 
 Ayrıca ürünün video kaydı için:
 [ürün video kaydı](https://youtu.be/eKWXF5uF4bY)
 
 ## Modellerin Sınıflandırma Sonuçları
+
+Oluşturulan model için: [Model linki](https://github.com/EfeBirsin/Grup-5-/blob/main/ProjectManagement/Sprint2/sepsis_model_deneme.ipynb)
 
 <details>
 <summary> Lojistik Regresyon </summary>
