@@ -144,7 +144,7 @@ Projemizin her satırı, bir hayatın daha zamanında kurtarılması için yazı
 > Örnek çalıştırmalar için `notebooks/` dizininden Jupyter dosyalarına ulaşabilirsiniz.
 
 <details>
-<summary><h2>Sprint 2</h2></summary>
+<summary><h2>Sprint 1</h2></summary>
 
 ## Sprint Notları:
 -	Proje alanı belirlenip proje fikri oluşturuldu.
@@ -208,7 +208,7 @@ Aslı Şemsimoğlu, Beyza İrem Kaya, Efe Birsin, Esra Çilesiz, Melih Eren
 </details>
 
 <details>
-<summary><h2>Sprint 1</h2></summary>
+<summary><h2>Sprint 2</h2></summary>
 
 ## Sprint Notları:
 -	Proje alanı belirlenip proje fikri oluşturuldu.
