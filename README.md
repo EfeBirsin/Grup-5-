@@ -256,6 +256,40 @@ Ayrıca ürünün video kaydı için:
 
 </details>
 
+<details>
+<summary> Random Forest </summary>
+
+### Random Forest Performansı
+
+| Metrik | Precision | Recall | F1-Score | Support |
+| :--- | :---: | :---: | :---: | :---: |
+| **Sınıf 0** | 0.75 | 0.95 | 0.84 | 19 |
+| **Sınıf 1** | 0.67 | 0.25 | 0.36 | 8 |
+| | | | | |
+| **Accuracy** | | | **0.74** | **27** |
+| **Macro Avg** | 0.71 | 0.60 | 0.60 | 27 |
+| **Weighted Avg**| 0.73 | 0.74 | 0.70 | 27 |
+
+**ROC AUC Skoru:** **`0.7204`**
+
+</details>
+
+<details>
+<summary> XGBoost </summary>
+
+### XGBoost Performansı
+
+| Metrik | Precision | Recall | F1-Score | Support |
+| :--- | :---: | :---: | :---: | :---: |
+| **Sınıf 0** | 0.83 | 0.79 | 0.81 | 19 |
+| **Sınıf 1** | 0.56 | 0.62 | 0.59 | 8 |
+| | | | | |
+| **Accuracy** | | | **0.74** | **27** |
+| **Macro Avg** | 0.69 | 0.71 | 0.70 | 27 |
+| **Weighted Avg**| 0.75 | 0.74 | 0.74 | 27 |
+
+</details>
+
 
 ## Sprint Retrospektifi:
 
