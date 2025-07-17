@@ -211,59 +211,55 @@ Aslı Şemsimoğlu, Beyza İrem Kaya, Efe Birsin, Esra Çilesiz, Melih Eren
 <summary><h2>Sprint 2</h2></summary>
 
 ## Sprint Notları:
--	Proje alanı belirlenip proje fikri oluşturuldu.
--	Görev dağılımı yapıldı, takım ismi bulundu
--	Proje ürünü hakkında genel fikirler github’a yazıldı
--	Toplantılar “Jitzi” veya “Google Meet” üzerinden yapıldı, gerekli durumlarda "Whatsapp” grubu üzerinden konuşmalar devam ettirildi.
--	Proje yönetimi için “Trello” kullanıldı.
--	Proje için “MIMIC-III demo 1.4” veri seti incelendi, veri setindeki her bir veri için rapor oluşturulup modele katkısı ölçüldü.
--	“Sepsis tahmini” yapılacak model oluşturulmaya ve geliştirilmeye başlandı.
--	Figma UI tasarımına başlanıldı.
+-	Sprint 1'de oluşturulan strateji doğrultusunda basit bir "Sepsis Tahmini" modeli oluşturuldu. Modelinin geliştirilmesine ve iyileştirilmesine odaklanıldı.
+-	Figma üzerinde tamamlanan tasarımlar, kullanıcı arayüzüne (UI) dönüştürülmeye başlandı.
+-	Proje yönetimi "Trello" üzerinden, günlük iletişim ise "Whatsapp” grubu üzerinden devam ettirildi.
+-	Sprint sonunda, ürünün mevcut durumunu ve işlevselliğini gösteren bir video kaydı oluşturuldu.
+-	Hastanın sepsis olup olmadığına dair bağımlı değişken sütun oluşturuldu ve buna göre başarı metriği belirlendi.
 
-## Sprint için Tamamlanması Beklenen Puan: 80 puan
+## Sprint için Tamamlanması Beklenen Puan: 110 puan
 
 ## Tahmin Mantığı:
 
-Toplamda 3 sprint olarak planlanan projemizintoplam puanı 300 olarak belirlenip ilk sprint'i için 80 puanlık bir hedef konulmuştur. Bu puan, fiili kodlama içerse de veri setini anlama, detaylı rapor oluşturma ve strateji geliştirme gibi bilişsel yük gerektiren görevleri kapsamaktadır. Projenin en önemli adımı olan "ne yapılacağını ve nasıl yapılacağını" netleştiren bu görevler, projenin temelini oluşturduğu için yüksek puanlanmıştır. Amaç, Sprint 2'ye "sadece kodlamaya odaklanabileceğimiz" temiz bir başlangıçla girmektir.
-Sprint 2 ve Sprint 3, projenin en yoğun geliştirme fazlarını temsil etmektedir. Sprint 2, modellemenin; Sprint 3 ise arayüz geliştirmenin ağırlıklı olduğu dönemlerdir. Bu sprint'lerdeki görevler, yüksek derecede teknik karmaşıklık ve uygulama eforu gerektirdiğinden, her biri için hedeflenen puan 110 olarak belirlenmiştir.
+Toplamda 3 sprint olarak planlanan projemizin toplam puanı 300 olarak belirlenip 2. sprint'i için 110 puanlık bir hedef konulmuştur. Bu sprint, hem yapay zeka modelinin kodlanıp eğitilmesi hem de kullanıcı arayüzünün geliştirilmesi gibi yüksek teknik karmaşıklık ve uygulama eforu gerektiren görevleri içermektedir.
 
 ## Daily Scrum: 
-Günlük  iletişimin, kolaylık ve hız gibi artılarından ötürü  Whatsapp üzerinden yapılmasına karar verilmiştir. Günlük iletişim örnekleri pdf olarak tarafımızdan paylaşılmaktadır: [sprint1_daily](https://github.com/EfeBirsin/Grup-5-/blob/main/ProjectManagement/Sprint1/sprint1_daily%20(1).pdf)
+Günlük  iletişimin, kolaylık ve hız gibi artılarından ötürü  Whatsapp üzerinden yapılmasına karar verilmiştir.
 
 ## Sprint board update
-
-![trello.png](https://github.com/EfeBirsin/Grup-5-/blob/main/ProjectManagement/Sprint1/trello.png)
 
 ## Ürün Durumu Çıktısı
 
 ![Ürün Çıktısı 1](https://github.com/EfeBirsin/Grup-5-/blob/main/ProjectManagement/Sprint1/%C3%9Cr%C3%BCn_Tasar%C4%B1m%C4%B1_Figma.jpg)
 ![Ürün Çıktısı 2](https://github.com/EfeBirsin/Grup-5-/blob/main/ProjectManagement/Sprint1/%C3%9Cr%C3%BCn_Tasar%C4%B1m%C4%B1_Figma_2.jpg)
-![Ürün Çıktısı 3](https://github.com/EfeBirsin/Grup-5-/blob/main/ProjectManagement/Sprint1/%C3%9Cr%C3%BCn_Tasar%C4%B1m%C4%B1_Figma_3.jpg)
 
 ## Sprint Retrospektifi:
 
-- İkinci sprintte modelin geliştirilmesine devam edilmesine karar verildi.
--	Modelin performansını ölçmek için bir başarı metriği belirlenmesine ve bu metrik üzerinden iyileştirme yapılmasına karar verildi.
--	Ürünün arayüzü ve kullanıcı deneyimi (UI/UX) tasarımı üzerine yapılacak toplantıların sıklaştırılmasına karar verildi.
--	Araştırma fazında elde edilen bulgular doğrultusunda modelin ilk versiyonunun oluşturulmasına başlanmasına karar verildi.
+- Modelin tahmin doğruluğu %90 ve üzerine çıkarılmaya çalışıldı.
+- Modelin performansı arttırılması için veri ön işleme ve özellik mühendisliği üzerinde duruldu.
+-	Son sprint olan Sprint 3 için görevler netleştirildi: Modelin son haline getirilmesi, arayüzün tamamlanması, tam entegrasyonun sağlanması ve projenin sunuma hazır hale getirilmesi.
+-	Bağımlı değişkenin kategorik değerleri dengeli dağılmadığı için "Accuracy" başarı metriği yerine "Recall" ve "F1-Score" metriklerinin değerleri göz önünde bulundurulmaya karar verildi.
+-	
 
 ## Sprint Review:
 
 **Sprint Hedefi:**  
 
-Sprint 1'in ana hedefi, "Sepsis Tahmini" projesinin temelini atmak, kullanılacak MIMIC-III demo 1.4 veri setini derinlemesine analiz etmek, bu analiz sonucunda bir strateji geliştirmek ve modelin ilk altyapısını kurmaktı. Amaç, Sprint 2'ye temiz ve net bir başlangıç yapabilmek için tüm hazırlık ve araştırma adımlarını tamamlamaktı.
+Sprint 2'nin ana hedefi, Sprint 1'de atılan temeller üzerine "Sepsis Tahmini" modelini geliştirmek, eğitmek ve performansını optimize etmekti. Aynı zamanda, Figma'da tasarlanan arayüzünü geliştirmekti.
 
 **Tamamlanan İşler ve Çıktılar:**
 
-- Veri setindeki her bir klinik özniteliğin sepsis tahminine olası katkısı detaylı bir şekilde incelenmiş ve bu bulguları içeren kapsamlı bir rapor oluşturulmuştur.
-- Araştırma fazında elde edilen bulgular doğrultusunda, sepsis tahmini yapacak modelin ilk iskeletini ve temel fonksiyonlarını içeren Python script'leri geliştirilmeye başlanmıştır.
-- Trello board'u sprint takibi için aktif hale getirilmiş, proje hakkındaki genel fikirler ve hedefler GitHub reposuna işlenerek tüm takım için ortak bir anlayış zemini oluşturulmuştur.
+- Sepsis tahmin modeli, belirlenen başarı metrikleri doğrultusunda başarıyla eğitilmiş ve ilk versiyonu tamamlanmıştır.
+- Figma tasarımları temel alınarak kullanıcı arayüzünün kodlaması büyük ölçüde tamamlanmıştır.
+- Model ve arayüzün temel işlevlerini bir araya getiren bir prototip oluşturulmuştur.
+- Sprint çıktısı olarak, ürünün mevcut çalışma durumunu gösteren bir video kaydı başarıyla oluşturulmuş ve paylaşılmıştır.
+- Trello board'u sprint boyunca aktif olarak güncellenmiş ve tamamlanan görevler işaretlenmiştir.
 
 **Alınan Kararlar ve Sonraki Adımlar:**
 
-- Modelin performansını objektif olarak ölçmek ve iyileştirmeleri bu doğrultuda yapmak için Sprint 2'nin başında spesifik bir başarı metriği (örn: AUC-ROC, F1-Score, Precision-Recall) belirlenmesine karar verildi.
-- Veri analiz raporu temel alınarak, Sprint 2'de modelin geliştirme, eğitim ve iyileştirme çalışmalarına odaklanılacaktır.
-- Ürünün son kullanıcı için değerini ve kullanılabilirliğini artırmak amacıyla, kullanıcı arayüzü (UI) ve kullanıcı deneyimi (UX) üzerine yapılacak toplantıların sıklaştırılmasına karar verildi.
+- Sprint 3'te model üzerinde iyileştirmeler yapılacak ve performans metrikleri son kez raporlanacaktır.
+- Kullanıcı arayüzü ile model arasındaki entegrasyon tamamlanarak ürünün son kullanıcıya sunulacak hale getirilmesine karar verildi.
+- Son sprintin ana odağı, projenin tamamlanması, test edilmesi ve sunuma hazır hale getirilmesi olacaktır.
 
 **Sprint Katılımcıları:**
 
