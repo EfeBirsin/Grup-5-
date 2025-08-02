@@ -329,7 +329,7 @@ Aslı Şemsimoğlu, Beyza İrem Kaya, Efe Birsin, Esra Çilesiz, Melih Eren
 
 </details>
 
-</details>
+<details>
 <summary><h2>Sprint 3</h2></summary>
 
 ## Sprint Notları:
