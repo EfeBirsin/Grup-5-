@@ -160,7 +160,7 @@ Projemizin her satırı, bir hayatın daha zamanında kurtarılması için yazı
 
 ## Tahmin Mantığı:
 
-Toplamda 3 sprint olarak planlanan projemizintoplam puanı 300 olarak belirlenip ilk sprint'i için 80 puanlık bir hedef konulmuştur. Bu puan, fiili kodlama içerse de veri setini anlama, detaylı rapor oluşturma ve strateji geliştirme gibi bilişsel yük gerektiren görevleri kapsamaktadır. Projenin en önemli adımı olan "ne yapılacağını ve nasıl yapılacağını" netleştiren bu görevler, projenin temelini oluşturduğu için yüksek puanlanmıştır. Amaç, Sprint 2'ye "sadece kodlamaya odaklanabileceğimiz" temiz bir başlangıçla girmektir.
+Toplamda 3 sprint olarak planlanan projemizin toplam puanı 300 olarak belirlenip ilk sprint'i için 80 puanlık bir hedef konulmuştur. Bu puan, fiili kodlama içerse de veri setini anlama, detaylı rapor oluşturma ve strateji geliştirme gibi bilişsel yük gerektiren görevleri kapsamaktadır. Projenin en önemli adımı olan "ne yapılacağını ve nasıl yapılacağını" netleştiren bu görevler, projenin temelini oluşturduğu için yüksek puanlanmıştır. Amaç, Sprint 2'ye "sadece kodlamaya odaklanabileceğimiz" temiz bir başlangıçla girmektir.
 Sprint 2 ve Sprint 3, projenin en yoğun geliştirme fazlarını temsil etmektedir. Sprint 2, modellemenin; Sprint 3 ise arayüz geliştirmenin ağırlıklı olduğu dönemlerdir. Bu sprint'lerdeki görevler, yüksek derecede teknik karmaşıklık ve uygulama eforu gerektirdiğinden, her biri için hedeflenen puan 110 olarak belirlenmiştir.
 
 ## Daily Scrum: 
@@ -344,7 +344,7 @@ Aslı Şemsimoğlu, Beyza İrem Kaya, Efe Birsin, Esra Çilesiz, Melih Eren
 
 ## Tahmin Mantığı:
 
-Toplamda 3 sprint olarak planlanan projemizintoplam puanı 300 olarak belirlenip 3. sprint'i için 110 puanlık bir hedef konulmuştur. Bu sprint, geliştirilen tüm bileşenlerin (model, arayüz) birleştirilmesi, uçtan uca testlerin yapılması, olası hataların giderilmesi ve projenin sunuma hazır hale getirilmesi gibi kritik tamamlama görevlerini içermektedir.
+Toplamda 3 sprint olarak planlanan projemizin toplam puanı 300 olarak belirlenip 3. sprint'i için 110 puanlık bir hedef konulmuştur. Bu sprint, geliştirilen tüm bileşenlerin (model, arayüz) birleştirilmesi, uçtan uca testlerin yapılması, olası hataların giderilmesi ve projenin sunuma hazır hale getirilmesi gibi kritik tamamlama görevlerini içermektedir.
 
 ## Daily Scrum: 
 Günlük iletişimin, kolaylık ve hız gibi artılarından ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. [Sprint 3 - Daily Scrum](https://github.com/EfeBirsin/Grup-5-/tree/main/ProjectManagement/Sprint3/Daily%20Scrum%203)
