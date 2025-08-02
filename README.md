@@ -333,9 +333,9 @@ Aslı Şemsimoğlu, Beyza İrem Kaya, Efe Birsin, Esra Çilesiz, Melih Eren
 <summary><h2>Sprint 3</h2></summary>
 
 ## Sprint Notları:
-- Sprint 2'de iyileştirilmesi hedeflenen tahmin modeli, yapılan optimizasyonlarla son haline getirildi ve en başarılı model olarak Random Forest seçildi.
+- Sprint 2'de iyileştirilmesi hedeflenen tahmin modeli, yapılan optimizasyonlarla son haline getirildi ve model olarak Random Forest seçildi.
 - Kullanıcı arayüzünün kodlaması tamamlandı ve son kullanıcı deneyimine yönelik ince ayarlar yapıldı.
-- Model ile kullanıcı arayüzü arasındaki entegrasyon başarıyla tamamlanarak ürün tamamen işlevsel hale getirildi.
+- Model ile kullanıcı arayüzü arasındaki entegrasyon tamamlanarak ürün tamamen işlevsel hale getirildi.
 -	Toplantılar “Jitzi” veya “Google Meet” üzerinden yapıldı, gerekli durumlarda "Whatsapp” grubu üzerinden konuşmalar devam ettirildi.
 -	Proje yönetimi için “Trello” kullanıldı.
 
