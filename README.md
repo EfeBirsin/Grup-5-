@@ -224,7 +224,7 @@ Aslı Şemsimoğlu, Beyza İrem Kaya, Efe Birsin, Esra Çilesiz, Melih Eren
 Toplamda 3 sprint olarak planlanan projemizin toplam puanı 300 olarak belirlenip 2. sprint'i için 110 puanlık bir hedef konulmuştur. Bu sprint, hem yapay zeka modelinin kodlanıp eğitilmesi hem de kullanıcı arayüzünün geliştirilmesi gibi yüksek teknik karmaşıklık ve uygulama eforu gerektiren görevleri içermektedir.
 
 ## Daily Scrum: 
-Günlük  iletişimin, kolaylık ve hız gibi artılarından ötürü  Whatsapp üzerinden yapılmasına karar verilmiştir. [Sprint 2 - Daily Scrum](https://github.com/EfeBirsin/Grup-5-/tree/main/ProjectManagement/Sprint2/Daily%20Scrum%202)
+Günlük iletişimin, kolaylık ve hız gibi artılarından ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. [Sprint 2 - Daily Scrum](https://github.com/EfeBirsin/Grup-5-/tree/main/ProjectManagement/Sprint2/Daily%20Scrum%202)
 
 ## Sprint board update
 
@@ -329,7 +329,57 @@ Aslı Şemsimoğlu, Beyza İrem Kaya, Efe Birsin, Esra Çilesiz, Melih Eren
 
 </details>
 
-<details>
+</details>
 <summary><h2>Sprint 3</h2></summary>
 
+## Sprint Notları:
+- Sprint 2'de iyileştirilmesi hedeflenen tahmin modeli, yapılan optimizasyonlarla son haline getirildi ve en başarılı model olarak Random Forest seçildi.
+- Kullanıcı arayüzünün kodlaması tamamlandı ve son kullanıcı deneyimine yönelik ince ayarlar yapıldı.
+- Model ile kullanıcı arayüzü arasındaki entegrasyon başarıyla tamamlanarak ürün tamamen işlevsel hale getirildi.
+-	Toplantılar “Jitzi” veya “Google Meet” üzerinden yapıldı, gerekli durumlarda "Whatsapp” grubu üzerinden konuşmalar devam ettirildi.
+-	Proje yönetimi için “Trello” kullanıldı.
+
+
+## Sprint için Tamamlanması Beklenen Puan: 110 puan
+
+## Tahmin Mantığı:
+
+Toplamda 3 sprint olarak planlanan projemizintoplam puanı 300 olarak belirlenip 3. sprint'i için 110 puanlık bir hedef konulmuştur. Bu sprint, geliştirilen tüm bileşenlerin (model, arayüz) birleştirilmesi, uçtan uca testlerin yapılması, olası hataların giderilmesi ve projenin sunuma hazır hale getirilmesi gibi kritik tamamlama görevlerini içermektedir.
+
+## Daily Scrum: 
+Günlük iletişimin, kolaylık ve hız gibi artılarından ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. [Sprint 3 - Daily Scrum](https://github.com/EfeBirsin/Grup-5-/tree/main/ProjectManagement/Sprint3/Daily%20Scrum%203)
+
+## Sprint board update
+
+![trello.png](https://github.com/EfeBirsin/Grup-5-/blob/main/ProjectManagement/Sprint3/trello3.png)
+
+## Ürün Durumu Çıktısı
+
+![Ürün Çıktısı 1](https://github.com/EfeBirsin/Grup-5-/blob/main/ProjectManagement/Sprint3/SepsisGuardAI-1.png)
+![Ürün Çıktısı 2](https://github.com/EfeBirsin/Grup-5-/blob/main/ProjectManagement/Sprint3/SepsisGuardAI-2.png)
+![Ürün Çıktısı 3](https://github.com/EfeBirsin/Grup-5-/blob/main/ProjectManagement/Sprint3/SepsisGuardAI-3.png)
+
+## Sprint Retrospektifi:
+
+- Sprint 2 retrospektifinde belirlenen model performansını artırma hedefi başarıyla gerçekleştirildi.
+- Model ile arayüzün entegrasyonu planlandığı gibi tamamlandı.
+- Projenin son halini sunan video ve sunum materyalleri hazırlandı.
+
+## Sprint Review:
+
+**Sprint Hedefi:**  
+
+Sprint 3'ün ana hedefi, Sepsis Tahmin modelini ve kullanıcı arayüzünü nihai hale getirmek, bu iki bileşeni başarılı bir şekilde entegre etmek ve projeyi sunuma hazır, tamamen işlevsel bir ürün olarak tamamlamaktı.
+
+**Tamamlanan İşler ve Çıktılar:**
+
+- Son optimizasyonları yapılmış, performansı iyileştirilmiş ve final sürümü belirlenmiş yapay zeka modeli (Random Forest) teslim edildi.
+- Kullanıcı arayüzü kodlandı, test edildi ve modelle entegre edildi.
+- Trello üzerindeki tüm görevler "Tamamlandı" sütununa taşınarak proje yönetimi süreci sonlandırıldı.
+
+**Sprint Katılımcıları:**
+
+Aslı Şemsimoğlu, Beyza İrem Kaya, Efe Birsin, Esra Çilesiz, Melih Eren
+
 </details>
+
