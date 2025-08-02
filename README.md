@@ -328,3 +328,8 @@ Sprint 2'nin ana hedefi, Sprint 1'de atılan temeller üzerine "Sepsis Tahmini" 
 Aslı Şemsimoğlu, Beyza İrem Kaya, Efe Birsin, Esra Çilesiz, Melih Eren
 
 </details>
+
+<details>
+<summary><h2>Sprint 3</h2></summary>
+
+</details>
