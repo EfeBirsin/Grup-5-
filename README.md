@@ -357,7 +357,7 @@ Günlük iletişimin, kolaylık ve hız gibi artılarından ötürü Whatsapp ü
 
 ![Ürün Çıktısı 1](https://github.com/EfeBirsin/Grup-5-/blob/main/ProjectManagement/Sprint3/SepsisGuardAI-1.png)
 ![Ürün Çıktısı 2](https://github.com/EfeBirsin/Grup-5-/blob/main/ProjectManagement/Sprint3/SepsisGuardAI-2.png)
-![Ürün Çıktısı 3](https://github.com/EfeBirsin/Grup-5-/blob/main/ProjectManagement/Sprint3/SepsisGuardAI-3.png)
+![Ürün Çıktısı 3](https://github.com/EfeBirsin/Grup-5-/blob/main/ProjectManagement/Sprint3/SepsisGurardAI-3.png)
 
 ## Sprint Retrospektifi:
 
