@@ -160,7 +160,7 @@ Projemizin her satırı, bir hayatın daha zamanında kurtarılması için yazı
 
 ## Tahmin Mantığı:
 
-Toplamda 3 sprint olarak planlanan projemizin toplam puanı 300 olarak belirlenip ilk sprint'i için 80 puanlık bir hedef konulmuştur. Bu puan, fiili kodlama içerse de veri setini anlama, detaylı rapor oluşturma ve strateji geliştirme gibi bilişsel yük gerektiren görevleri kapsamaktadır. Projenin en önemli adımı olan "ne yapılacağını ve nasıl yapılacağını" netleştiren bu görevler, projenin temelini oluşturduğu için yüksek puanlanmıştır. Amaç, Sprint 2'ye "sadece kodlamaya odaklanabileceğimiz" temiz bir başlangıçla girmektir.
+Toplamda 3 sprint olarak planlanan projemizin toplam puanı 300 olarak belirlenip ilk sprint'i için 80 puanlık bir hedef konulmuştur. Bu puan, fiili kodlama içermese de veri setini anlama, detaylı rapor oluşturma ve strateji geliştirme gibi bilişsel yük gerektiren görevleri kapsamaktadır. Projenin en önemli adımı olan "ne yapılacağını ve nasıl yapılacağını" netleştiren bu görevler, projenin temelini oluşturduğu için yüksek puanlanmıştır. Amaç, Sprint 2'ye "sadece kodlamaya odaklanabileceğimiz" temiz bir başlangıçla girmektir.
 Sprint 2 ve Sprint 3, projenin en yoğun geliştirme fazlarını temsil etmektedir. Sprint 2, modellemenin; Sprint 3 ise arayüz geliştirmenin ağırlıklı olduğu dönemlerdir. Bu sprint'lerdeki görevler, yüksek derecede teknik karmaşıklık ve uygulama eforu gerektirdiğinden, her biri için hedeflenen puan 110 olarak belirlenmiştir.
 
 ## Daily Scrum: 
@@ -217,7 +217,7 @@ Aslı Şemsimoğlu, Beyza İrem Kaya, Efe Birsin, Esra Çilesiz, Melih Eren
 -	Sprint sonunda, ürünün mevcut durumunu ve işlevselliğini gösteren bir video kaydı oluşturuldu.
 -	Hastanın sepsis olup olmadığına dair bağımlı değişken sütun oluşturuldu ve buna göre başarı metriği belirlendi.
 
-## Sprint için Tamamlanması Beklenen Puan: 110 puan
+## Sprint için Tamamlanması Beklenen Puan: **`110`** puan
 
 ## Tahmin Mantığı:
 
@@ -340,7 +340,7 @@ Aslı Şemsimoğlu, Beyza İrem Kaya, Efe Birsin, Esra Çilesiz, Melih Eren
 -	Proje yönetimi için “Trello” kullanıldı.
 
 
-## Sprint için Tamamlanması Beklenen Puan: 110 puan
+## Sprint için Tamamlanması Beklenen Puan: **`110`** puan
 
 ## Tahmin Mantığı:
 
