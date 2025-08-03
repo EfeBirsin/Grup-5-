@@ -362,6 +362,8 @@ Günlük iletişimin, kolaylık ve hız gibi artılarından ötürü Whatsapp ü
 Ayrıca ürünün video kaydı için:
 [SepsisGuardAI Video Kaydı](https://www.youtube.com/watch?v=O0uJmF7H-Ns)
 
+Bu projenin tüm kaynak kodlarına, eğitilmiş modellerine ve veri setlerine aşağıdaki GitHub deposundan erişebilirsiniz. [Proje Kaynak Kodları]()
+
 ## Sprint Retrospektifi:
 
 - Sprint 2 retrospektifinde belirlenen model performansını artırma hedefi başarıyla gerçekleştirildi.
