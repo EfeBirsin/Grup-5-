@@ -156,7 +156,7 @@ Projemizin her satırı, bir hayatın daha zamanında kurtarılması için yazı
 -	“Sepsis tahmini” yapılacak model oluşturulmaya ve geliştirilmeye başlandı.
 -	Figma UI tasarımına başlanıldı.
 
-## Sprint için Tamamlanması Beklenen Puan: 80 puan
+## Sprint için Tamamlanması Beklenen Puan: **`80`** puan
 
 ## Tahmin Mantığı:
 
